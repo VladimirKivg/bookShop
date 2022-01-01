@@ -44,6 +44,4 @@ dependencies {
 	compileOnly 'org.projectlombok:lombok'
 
 }
-test {
-	useJUnitPlatform()
-}
+
